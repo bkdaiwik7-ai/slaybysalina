@@ -1032,14 +1032,14 @@ function HoursSection() {
                                             className: "flex justify-between border-b border-border pb-2",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$6_$40$babel$2b$core$40$7$2e$2_40a7effce8bcad24669d45809ebe449e$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("dt", {
-                                                    children: "Monday - Friday"
+                                                    children: "Monday - Tuesday"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/hours-section.tsx",
                                                     lineNumber: 17,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$6_$40$babel$2b$core$40$7$2e$2_40a7effce8bcad24669d45809ebe449e$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("dd", {
-                                                    children: "10:00 AM - 9:00 PM"
+                                                    children: "11:30 AM - 8:30 PM"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/hours-section.tsx",
                                                     lineNumber: 18,
@@ -1055,14 +1055,14 @@ function HoursSection() {
                                             className: "flex justify-between border-b border-border pb-2 pt-2",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$6_$40$babel$2b$core$40$7$2e$2_40a7effce8bcad24669d45809ebe449e$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("dt", {
-                                                    children: "Saturday - Sunday"
+                                                    children: "Thursday - Sunday"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/hours-section.tsx",
                                                     lineNumber: 21,
                                                     columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$6_$40$babel$2b$core$40$7$2e$2_40a7effce8bcad24669d45809ebe449e$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("dd", {
-                                                    children: "9:00 AM - 9:30 PM"
+                                                    children: "11:30 AM - 8:30 PM"
                                                 }, void 0, false, {
                                                     fileName: "[project]/components/hours-section.tsx",
                                                     lineNumber: 22,
@@ -1082,7 +1082,7 @@ function HoursSection() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$2$2e$6_$40$babel$2b$core$40$7$2e$2_40a7effce8bcad24669d45809ebe449e$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-xs uppercase tracking-[0.2em] text-muted-foreground",
-                                    children: "Open 7 days a week"
+                                    children: "Open 6 days a week"
                                 }, void 0, false, {
                                     fileName: "[project]/components/hours-section.tsx",
                                     lineNumber: 25,
