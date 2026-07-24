@@ -51,7 +51,7 @@ export function HoursSection() {
               <li className="flex items-center gap-3">
                 <Phone className="size-4 shrink-0 text-accent" aria-hidden="true" />
                 <Link
-                  href="tel:+919986177668"
+                  href="tel:+919999757379"
                   className="transition-colors hover:text-accent"
                 >
                   +91 99861 77668
@@ -60,10 +60,10 @@ export function HoursSection() {
               <li className="flex items-center gap-3">
                 <Mail className="size-4 shrink-0 text-accent" aria-hidden="true" />
                 <Link
-                  href="mailto:nehaipes@gmail.com"
+                  href="mailto:slaybysalina23@gmail.com"
                   className="transition-colors hover:text-accent"
                 >
-                  nehaipes@gmail.com
+                  slaybysalina23@gmail.com
                 </Link>
               </li>
             </ul>
