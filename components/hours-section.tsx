@@ -40,12 +40,12 @@ export function HoursSection() {
               <li className="flex items-center gap-3">
                 <MapPin className="size-4 shrink-0 text-accent" aria-hidden="true" />
                 <Link
-                  href="https://maps.google.com/?q=28.6429,77.1232"
+                  href="https://share.google/7pSk5ERUxqmUnbNks"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="transition-colors hover:text-accent"
                 >
-                  View on Map (28°38'34.6"N 77°07'23.7"E)
+                  View on Map 
                 </Link>
               </li>
               <li className="flex items-center gap-3">
