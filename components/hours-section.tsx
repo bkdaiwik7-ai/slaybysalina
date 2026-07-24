@@ -45,7 +45,7 @@ export function HoursSection() {
                   rel="noopener noreferrer"
                   className="transition-colors hover:text-accent"
                 >
-                  View on Map 
+                  H-3 , 1st floor rajouri garden, Delhi, 110027 
                 </Link>
               </li>
               <li className="flex items-center gap-3">
