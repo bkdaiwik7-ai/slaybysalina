@@ -54,7 +54,7 @@ export function HoursSection() {
                   href="tel:+919999757379"
                   className="transition-colors hover:text-accent"
                 >
-                  +91 99861 77668
+                  +91 9999 757379
                 </Link>
               </li>
               <li className="flex items-center gap-3">
